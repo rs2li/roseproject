@@ -1,13 +1,13 @@
-﻿Job Title,Name,Filtration Efficiency (%) 
-2021-0029-08,NWPP Thin (8 Layers),85.27
-2021-0029-09,NWPP Thin (8 Layers),78.5
-2021-0029-10,NWPP Thin (8 Layers),86.43
-2021-0029-11,NWPP Thin (10 Layers),91.6
-2021-0029-12,NWPP Thin (10 Layers),92.2
-2021-0029-14,NWPP Thin (10 Layers),91.6
-2021-0029-15,NWPP Thin (10 Layers),90.8
-2021-0029-16,NWPP Thin (12 Layers),91.8
-2021-0029-17,NWPP Thin (12 Layers),90.9
-2021-0031-16,NWPP Thin (12 Layers),92.5
-2021-0031-17,NWPP Thin (12 Layers),92.6
-2021-0031-18,NWPP Thin (12 Layers),91.6
+﻿Job Title,Type,Filtration Efficiency (%), Layer
+2021-0029-08,NWPP Thin (8 Layers),85.27, 8
+2021-0029-09,NWPP Thin (8 Layers),78.5, 8
+2021-0029-10,NWPP Thin (8 Layers),86.43, 8
+2021-0029-11,NWPP Thin (10 Layers),91.6, 10
+2021-0029-12,NWPP Thin (10 Layers),92.2, 10
+2021-0029-14,NWPP Thin (10 Layers),91.6, 10
+2021-0029-15,NWPP Thin (10 Layers),90.8, 10
+2021-0029-16,NWPP Thin (12 Layers),91.8, 12
+2021-0029-17,NWPP Thin (12 Layers),90.9, 12
+2021-0031-16,NWPP Thin (12 Layers),92.5, 12
+2021-0031-17,NWPP Thin (12 Layers),92.6, 12
+2021-0031-18,NWPP Thin (12 Layers),91.6, 12
